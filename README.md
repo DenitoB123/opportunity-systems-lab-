@@ -81,3 +81,88 @@ This project combines:
 ---
 
 ## 🧰 Project Structure
+
+opportunity-systems-lab/
+│
+├── data/ # Raw and cleaned datasets
+├── research/ # Findings, reports, and analysis
+├── product/ # Opportunity Navigator MVP (app)
+├── surveys/ # Questionnaires and data collection tools
+├── docs/ # System design and vision
+├── assets/ # Charts, diagrams, visuals
+├── experiments/ # Hypotheses and testing
+└── README.md
+
+---
+
+## 🚀 Product Direction
+
+This research will evolve into a system called:
+
+# Opportunity Navigator
+
+A tool that helps students:
+
+- Discover relevant opportunities
+- Understand eligibility requirements
+- Track deadlines
+- Improve application success rates
+
+Future versions may include:
+- Personalized recommendations
+- Opportunity matching logic
+- AI-assisted guidance for applications
+
+---
+
+## 🧭 Long-Term Vision
+
+To build a data-driven understanding of how opportunity flows through education systems, and develop tools that improve:
+
+- Opportunity discovery
+- Educational mobility
+- Access equity
+- Student decision-making
+
+---
+
+## 📌 Current Stage
+
+This project is currently in:
+
+> Phase 1 — Data Collection & Early Analysis
+
+Next phases:
+
+- Phase 2: Pattern analysis and research publication
+- Phase 3: MVP development (Opportunity Navigator Lite)
+- Phase 4: Intelligent recommendation system
+- Phase 5: Scaled education opportunity platform
+
+---
+
+## 🤝 Data Ethics
+
+- Participation is voluntary
+- No sensitive personal data is required
+- Emails are optional for follow-up research only
+- Data is used strictly for educational and research purposes
+
+---
+
+## 📬 Contact / Collaboration
+
+This project is open to collaboration in:
+
+- Education research
+- Data science
+- Software development
+- Social impact initiatives
+
+---
+
+## ⭐ Status
+
+Early-stage independent research project evolving into a systems-based education technology platform.
+```
+
