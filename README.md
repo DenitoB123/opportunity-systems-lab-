@@ -85,7 +85,7 @@ This project combines:
 opportunity-systems-lab/
 │
 ├── data/ # Raw and cleaned datasets
-├── research/ # Findings, reports, and analysis
+├── research/ ## Findings, reports, and analysis
 ├── product/ # Opportunity Navigator MVP (app)
 ├── surveys/ # Questionnaires and data collection tools
 ├── docs/ # System design and vision
